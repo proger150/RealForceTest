@@ -5,7 +5,7 @@
 
 **Setup:**
 
-* cd ./test-app
+* cd ./RealForceTest
 * composer install
 
 **Run command:**
